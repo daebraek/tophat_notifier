@@ -1,0 +1,15 @@
+# === OS / System files ===
+.DS_Store
+Thumbs.db
+
+# === Editor settings ===
+.vscode/
+.idea/
+
+# === Logs ===
+*.log
+
+# === Chrome extension packaging files ===
+*.crx
+*.pem
+*.zip
